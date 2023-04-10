@@ -1,0 +1,6 @@
+./client/logs/*.logs
+./client/obj/*.o
+./client/client
+./server/logs/*.logs
+./server/obj/*.o
+./server/server

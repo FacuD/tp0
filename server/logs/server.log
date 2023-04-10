@@ -1,0 +1,17 @@
+[INFO] 00:40:08:957 Servidor/(66107:66107): Servidor listo para recibir al cliente
+[INFO] 00:40:41:496 Servidor/(66107:66107): Se conecto un cliente!
+[INFO] 00:40:41:496 Servidor/(66107:66107): Me llego el mensaje valor
+[INFO] 00:40:52:248 Servidor/(66107:66107): Me llegaron los siguientes valores:
+
+[INFO] 00:40:52:248 Servidor/(66107:66107): a ver ahora que onda
+[INFO] 00:40:52:248 Servidor/(66107:66107): como va eso
+[INFO] 00:40:52:248 Servidor/(66107:66107): rey
+[ERROR] 00:40:52:248 Servidor/(66107:66107): el cliente se desconecto. Terminando servidor
+[INFO] 00:47:30:721 Servidor/(67463:67463): Servidor listo para recibir al cliente
+[INFO] 00:47:43:362 Servidor/(67463:67463): Se conecto un cliente!
+[INFO] 00:47:43:362 Servidor/(67463:67463): Me llego el mensaje valor
+[INFO] 00:47:46:162 Servidor/(67463:67463): Me llegaron los siguientes valores:
+
+[INFO] 00:47:46:162 Servidor/(67463:67463): que onda
+[INFO] 00:47:46:162 Servidor/(67463:67463): loca
+[ERROR] 00:47:46:162 Servidor/(67463:67463): el cliente se desconecto. Terminando servidor
